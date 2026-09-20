@@ -1,6 +1,6 @@
 # Abdullah Usman Portfolio
 
-A static portfolio for Abdullah Usman's AI and software projects. It includes a home page and four short project case studies for RAHATAI, ParityLens, ClientOps AI, and SkillSwap.
+A static portfolio for Abdullah Usman's AI and software projects. It includes a home page and seven short project case studies for RAHATAI, ParityLens, ClientOps AI, SkillSwap, EcoTour, Local SLM Lab, and Wombly. The home page also highlights education, leadership, and achievements.
 
 ## Structure
 
